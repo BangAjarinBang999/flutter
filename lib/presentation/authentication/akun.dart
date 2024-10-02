@@ -22,7 +22,7 @@ class _AkunState extends State<Akun> {
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 20),
               child: Text(
-                'Comming Soon',
+                'Comming Soond',
                 style: TextStyle(
                   fontSize: 80,
                   fontWeight: FontWeight.bold,
